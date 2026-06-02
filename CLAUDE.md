@@ -1,6 +1,6 @@
 # CLAUDE.md — tobiasheinrichfaska.github.io (Personal Homepage)
 
-> **For workspace conventions, see:** [`c:\skripte\private\general stuff\general_stuff_claude.md`](../../private/general\ stuff/general_stuff_claude.md)
+> **For workspace conventions, see:** [`c:\skripte\private\general stuff\CLAUDE.md`](../../private/general%20stuff/CLAUDE.md)
 
 This is the personal portfolio and homepage published at GitHub Pages. It serves as the public-facing index of Tobias Heinrich's open-source projects.
 
@@ -65,7 +65,7 @@ public/tobiasheinrichfaska.github.io/
 ├── LICENSE                    # AGPLv3 full text
 ├── LICENSE_COMMERCIAL.md      # Commercial licensing terms
 ├── CONTRIBUTING.md            # Contributor guidelines
-└── tobiasheinrichfaska_github_io_claude.md  # This file
+└── CLAUDE.md                  # This file
 ```
 
 ---
